@@ -28,11 +28,11 @@
 <br/>
 
 ## 👤 Executive Summary
-- 🔭 Currently building **[Project Name](Link)**
+- 🔭 Currently building **[Based on](https://github.com/rraju26-web/TRUE-LOVE-STORYYYY.git)**
 - 🌱 Exploring advanced **[Technology/Architecture]**
-- 🤝 Open to collaborating on **[Type of Projects]**
+- 🤝 Open to collaborating on **[Management projects like hopital and company management]**
 - 💬 Ask me about **[Core Competencies / Tech]**
-- 📫 Connect with me: **[Your Email]**
+- 📫 Connect with me: **[rraju26@jnn.edu.in]**
 
 <br/>
 
