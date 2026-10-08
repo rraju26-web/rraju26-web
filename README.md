@@ -1,83 +1,75 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-
-<!-- Typing Animation Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=45&fontAlignY=35" alt="Header Banner">
+  
+  <h3>👨‍💻 Full Stack Developer | 🚀 Open Source Builder | 📱 Tech Creator</h3>
+  
+  <p>
+    Building digital experiences that feel like magic. Welcome to my GitHub portfolio!
+  </p>
+
+  <p align="center">
+    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+    <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  </p>
 </div>
 
-<br/>
+---
 
-<!-- Portfolio + LinkedIn Badges -->
+## 🎬 Trending Builds (My Top Projects)
+
+<!-- Replace the repo paths below with your actual repositories -->
 <div align="center">
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  <a href="https://github.com/your-username/your-best-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-best-repo&theme=radical&show_icons=true" width="48%" />
   </a>
-  <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/your-username/your-second-best-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-second-best-repo&theme=radical&show_icons=true" width="48%" />
   </a>
 </div>
 
-<br/>
+<br>
 
-## 👤 About Me
-- 🔭 I’m currently working on **[Project Name](Link)**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 💬 Ask me about **[Topics you know well]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Add a fun fact]**
-
-## 💻 Tech Stack
-<div align="left">
-  <!-- Replace/add icons using devicon.dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-## 🛠 Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-## 🚀 Current Projects
-| Project | Description | Link |
-|---|---|---|
-| **Project One** | Awesome web app that does X | [Repository](https://github.com/your-username/repo1) |
-| **Project Two** | Mobile app built with React Native | [Repository](https://github.com/your-username/repo2) |
-| **Project Three** | Open source contribution tool | [Repository](https://github.com/your-username/repo3) |
-
-## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/your-username/your-third-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-third-repo&theme=radical&show_icons=true" width="48%" />
+  </a>
+  <a href="https://github.com/your-username/your-fourth-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-fourth-repo&theme=radical&show_icons=true" width="48%" />
+  </a>
 </div>
 
-## 📊 Contribution Graph
+> 💡 **Click on the cards above** to dive into the source code and live demos!
+
+---
+
+## ⚡ My Tech Filters
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+  <br>
+  <!-- Powered by skillicons.dev - change the 'i=' list to add/remove your tech stack -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,docker,aws,figma&perline=10" alt="Tech Stack" />
+  <br>
 </div>
 
-<br/>
+---
 
-<!-- Visitor Badge -->
+## 📈 Creator Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
