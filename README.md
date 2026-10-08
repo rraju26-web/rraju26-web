@@ -14,10 +14,10 @@
 
 <!-- Sleek Monochrome Badges -->
 <div align="center">
-  <a href="https://your-portfolio.com">
+  <a href=".....">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/your-username">
+  <a href="www.linkedin.com/in/raju-r-9bb956422">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn">
   </a>
   <a href="https://github.com/your-username">
